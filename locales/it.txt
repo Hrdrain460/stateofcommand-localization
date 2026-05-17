@@ -6,11 +6,11 @@
 # -------------------------------------
 
 # Main Menu
-menu.button.start_game=Start Game
-menu.button.profile=Profile
-menu.button.settings=Settings
-menu.button.quit=Quit
-menu.intro.presented_by=Presented to you by
+menu.button.start_game=Inizia 
+menu.button.profile=Profilo
+menu.button.settings=Simpostazioni
+menu.button.quit=Esci
+menu.intro.presented_by=Presentato da
 menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m 
 # You can transliterate or get the equivalent of my name in your language, 
 #make sure to do a space between each character that is next to each other, 
