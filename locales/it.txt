@@ -42,47 +42,47 @@ ui.settings.secondary_icons=Usa icone di unità secondarie
 ui.settings.flag_zoom_out=Mostra bandiera quando fai uno Zoom Out (Unità)
 ui.settings.nation_overlay=Overlay della nazione (N)
 ui.settings.always_flag=Mostra sempre la bandiera sulle unità (F)
-ui.settings.unit_size=Unit Size
+ui.settings.unit_size=Dimensione unità
 
 # UI Manager| City tab (single city)
 ui.label.pop=Pop: %d
-ui.label.buildings=Buildings:
-ui.label.no_buildings=No buildings
-ui.label.construct=Construct:
-ui.button.factory=Factory
-ui.button.military_hq=Military HQ
-ui.button.depot=Depot
+ui.label.buildings=Edifici:
+ui.label.no_buildings=Nessun edificio
+ui.label.construct=Costruisci:
+ui.button.factory=Fabbrica
+ui.button.military_hq=Base militare
+ui.button.depot=Deposito
 
 # UI Manager| City Tab (multiple cities)
-ui.label.cities_selected=%zu cities selected
-ui.label.total_buildings=Total Buildings:
-ui.label.no_buildings_selected=No buildings in selected cities
-ui.button.create_units=Create Units
-ui.button.construct_buildings=Construct Buildings
+ui.label.cities_selected=%zu Città selezionate
+ui.label.total_buildings=Edifici totali:
+ui.label.no_buildings_selected=Nessun edificio nelle città selezionate
+ui.button.create_units=Crea delle unità
+ui.button.construct_buildings=Costruisci edifici
 
 # UI Manager| Building Tab
-ui.building.industrial_factory=Industrial Factory
-ui.building.production_lines=Production Lines:
-ui.building.inventory=Inventory:
-ui.building.no_items=No items
-ui.button.add_production_line=Add Production Line
-ui.building.military_hq_title=Military HQ
-ui.button.spawn_unit=Spawn Unit
-ui.building.supply_depot=Supply Depot
-ui.building.stored_equipment=Stored Equipment:
-ui.label.empty=Empty
+ui.building.industrial_factory=Fabbrica Industriale
+ui.building.production_lines=Linee di produzione:
+ui.building.inventory=Inventario:
+ui.building.no_items=Nessun oggetto
+ui.button.add_production_line=Aggiungi una linea di produzione 
+ui.building.military_hq_title=Base militare
+ui.button.spawn_unit=Genera unità
+ui.building.supply_depot=Deposito per rifornimenti
+ui.building.stored_equipment=Equipaggiamento nei depositi:
+ui.label.empty=Vuoto
 
 # UI Manager| Unit Creation Tab
-ui.label.select_unit_type=Select Unit Type:
-ui.button.cancel=Cancel
+ui.label.select_unit_type=Seleziona il tipo di unità:
+ui.button.cancel=Cancella
 
 # UI Manager| Unit Tooltip
-ui.tooltip.no_equipment=No equipment
+ui.tooltip.no_equipment=Senza equipaggiamnto
 ui.tooltip.morale=Morale: %.1f
-ui.tooltip.retreat_behavior=Retreat Behavior: %s
-ui.retreat.normal=Normal
-ui.retreat.hold_position=Hold Position
-ui.retreat.fallback=Fallback
+ui.tooltip.retreat_behavior=Tendenza alla ritirata: %s
+ui.retreat.normal=Normale
+ui.retreat.hold_position=Mantenere la posizione
+ui.retreat.fallback=Ritirata
 ui.tooltip.forming=FORMING: %.0f%%
 
 # UI Manager| Invasion Mode
