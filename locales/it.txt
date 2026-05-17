@@ -8,7 +8,7 @@
 # Main Menu
 menu.button.start_game=Inizia 
 menu.button.profile=Profilo
-menu.button.settings=Simpostazioni
+menu.button.settings=Impostazioni
 menu.button.quit=Esci
 menu.intro.presented_by=Presentato da
 menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m 
