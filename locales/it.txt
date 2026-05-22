@@ -20,7 +20,7 @@ menu.intro.layth_issam_elzaim=L a y t h  I s s a m  E l  Z a i m
 ui.settings.title=Impostazioni
 ui.settings.tab.graphics=Grafica
 ui.settings.tab.language=Lingua
-ui.settings.tab.game_visuals=Elementi Visivi
+ui.settings.tab.game_visuals=Elementi visivi
 
 ui.settings.resolution=Risoluzione
 ui.settings.window_mode=Modalità a finestra
